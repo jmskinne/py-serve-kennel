@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/jmskinner/.pyenv/shims/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
