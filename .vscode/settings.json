@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "/home/jmskinner/.pyenv/shims/python",
+    "python.pythonPath": "/home/jmskinner/.local/share/virtualenvs/python-server-b8ezEj0_/bin/python",
     "python.linting.pylintEnabled": true,
     "python.linting.enabled": true
 }
