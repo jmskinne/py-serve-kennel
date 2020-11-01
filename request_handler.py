@@ -1,3 +1,5 @@
+import os
+
 from http.server import BaseHTTPRequestHandler, HTTPServer
 
 from animals import get_all_animals, get_single_animal, delete_animal, get_animal_by_location, get_animal_by_status, update_animal
